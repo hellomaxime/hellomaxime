@@ -16,4 +16,4 @@ I have split the elements in the schema into multiple repositories. Feel free to
 
 ## This is not the only things I did
 
-I have also learned other tools such as Kubernetes or Docker. You can look my techninal skills on my resume.
+I have also learned other tools such as Kubernetes or Docker. You can look at my techninal skills on my resume.
