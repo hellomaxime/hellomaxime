@@ -2,6 +2,8 @@
 
 Things here are mainly about Data Engineering as it is the field I chose to work in.
 
+I'm building a Website where I will share my data engineering journey. __[here :)](https://itsmaxime.github.io)__  
+
 ---
 
 The following schema shows all the Big Data technos I have worked with and planned to learn in a near future.  
