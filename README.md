@@ -2,7 +2,7 @@
 
 Things here are mainly about Data Engineering as it is the field I chose to work in.
 
-[coming soon] It's __[here](https://itsmaxime.github.io)__ but not ready yet, I will build a Website where I will share my data engineering journey :)  
+[coming soon] It's __[here](https://hellomaxime.github.io)__ but not ready yet, I will build a Website where I will share my data engineering journey :)  
 
 ## Big Data Technos
 
