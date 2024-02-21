@@ -30,7 +30,7 @@ I'm Maxime, a Data Engineer who recently graduated with a master's degree in com
 
 <div align="center">
 
-| ![hellomaxime's Streak](https://github-readme-stats.vercel.app/api?username=hellomaxime&show_icons=true&include_all_commits=true&theme=default&hide_border=true) | ![hellomaxime's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomaxime&layout=compact&theme=default&hide_border=true)
+| ![hellomaxime's Streak](https://github-readme-stats.vercel.app/api?username=hellomaxime&show_icons=true&include_all_commits=true&theme=default&hide_border=true) | ![hellomaxime's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomaxime&layout=compact&theme=default&hide_border=true&langs_count=8)
 | ------------- | ------------- |
 
 ![hellomaxime's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hellomaxime&theme=default&hide_border=false)
