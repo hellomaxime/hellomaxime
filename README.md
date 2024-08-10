@@ -1,9 +1,9 @@
 ## Hello !  
 </br>
-I'm Maxime, a Data Engineer who recently graduated with a master's degree in computer science from :fr: Sorbonne University. I have a strong interest in building data pipelines and applying concepts to transform data into meaningful information for data scientists, analysts and decision makers. Beyond data, I'm also highly interested in software engineering and I spend my free time learning new things and improving my knowledge.
+I'm Maxime, a Software Engineer with a master's degree in computer science from Sorbonne University. 
 </br>
 
-### Languages & Technologies
+### Languages & Tools
 <p>
 <img title="Java" alt="Java" src="https://github.com/hellomaxime/hellomaxime/assets/86252821/f65d984d-68ab-4755-8328-a7c598230d74" width="30" height="50"/>
 <img title="Python" alt="Python" src="https://github.com/hellomaxime/hellomaxime/assets/86252821/51f7c707-da25-41d5-b3fb-49fb2578ad65" width="45" height="45"/>
