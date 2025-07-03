@@ -1,6 +1,6 @@
 ## Hello !  
 </br>
-I'm Maxime, a Software Engineer with a master's degree in computer science from Sorbonne University. 
+Software Engineer
 </br>
 
 ### Languages & Tools
